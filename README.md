@@ -1,12 +1,12 @@
-# Deep Learning Specialization on Coursera (offered by deeplearning.ai)
+# Deep Learning Specialization Coursera
 
-Programming assignments and quizzes from all courses in the Coursera [Deep Learning specialization](https://www.coursera.org/specializations/deep-learning) offered by `deeplearning.ai`.
+![](/DeepLearning.png)
+
+[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) is a foundational program for gaining speciality on deep learning and to develop cutting-edge AI technology. Course is offered by [DeepLearning.AI](https://www.deeplearning.ai/) on Coursera. 
 
 Instructor: [Andrew Ng](http://www.andrewng.org/)
 
-## Programming Assignments
-
-### Course 1: Neural Networks and Deep Learning
+## Course 1: [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning)
 
   - [Week 2 - PA 1 - Python Basics with Numpy](https://nbviewer.jupyter.org/github/amanchadha/coursera-deep-learning-specialization/blob/master/C1%20-%20Neural%20Networks%20and%20Deep%20Learning/Week%202/Python%20Basics%20with%20Numpy/Python_Basics_With_Numpy_v3a.ipynb)
   - [Week 2 - PA 2 - Logistic Regression with a Neural Network mindset](https://nbviewer.jupyter.org/github/amanchadha/coursera-deep-learning-specialization/blob/master/C1%20-%20Neural%20Networks%20and%20Deep%20Learning/Week%202/Logistic%20Regression%20as%20a%20Neural%20Network/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb)
