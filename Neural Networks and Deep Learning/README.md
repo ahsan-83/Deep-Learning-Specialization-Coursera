@@ -1,6 +1,6 @@
 # Deep Learning Specialization Coursera
 
-![](Neural Networks and Deep Learning.PNG)
+![](https://github.com/ahsan-83/Deep-Learning-Specialization-Coursera/blob/main/Neural%20Networks%20and%20Deep%20Learning/Neural%20Networks%20and%20Deep%20Learning.PNG)
 
 [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) is a foundational program for gaining speciality on deep learning in order to develop cutting-edge AI technologies. Course is offered by [DeepLearning.AI](https://www.deeplearning.ai/) on Coursera. 
 
