@@ -34,7 +34,10 @@ Instructor: [Andrew Ng](http://www.andrewng.org/)
 - [Week 3-Shallow Neural Networks](https://github.com/ahsan-83/Deep-Learning-Specialization-Coursera/blob/main/Neural%20Networks%20and%20Deep%20Learning/Quizes/Week%203-Shallow%20Neural%20Networks.pdf)
 - [Week 4-Key concepts on Deep Neural Networks](https://github.com/ahsan-83/Deep-Learning-Specialization-Coursera/blob/main/Neural%20Networks%20and%20Deep%20Learning/Quizes/Week%204-Key%20concepts%20on%20Deep%20Neural%20Networks.pdf)
 
-### Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+### [Grades](https://github.com/ahsan-83/Deep-Learning-Specialization-Coursera/blob/main/Neural%20Networks%20and%20Deep%20Learning/Certificate/Grades.pdf)
+### [Cretificate](https://www.coursera.org/account/accomplishments/verify/2ZGBA3L6AZ5Q)
+
+## Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 
   - [Week 1 - PA 1 - Initialization](https://nbviewer.jupyter.org/github/amanchadha/coursera-deep-learning-specialization/blob/master/C2%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%201/Initialization/Initialization.ipynb)
   - [Week 1 - PA 2 - Regularization](https://nbviewer.jupyter.org/github/amanchadha/coursera-deep-learning-specialization/blob/master/C2%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%201/Regularization/Regularization_v2a.ipynb)
