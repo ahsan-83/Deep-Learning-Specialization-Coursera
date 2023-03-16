@@ -31,6 +31,16 @@ Instructor: [Andrew Ng](http://www.andrewng.org/)
 - [Week 4-Programming Assignment Face Recognition](https://github.com/ahsan-83/Deep-Learning-Specialization-Coursera/blob/main/Convolutional%20Neural%20Networks/Assignment/Week%204-Programming%20Assignment%20Face%20Recognition/Face_Recognition.ipynb)
 - [Week 4-Programming Assignment Art Generation with Neural Style Transfer](https://github.com/ahsan-83/Deep-Learning-Specialization-Coursera/blob/main/Convolutional%20Neural%20Networks/Assignment/Week%204-Programming%20Assignment%20Art%20Generation%20with%20Neural%20Style%20Transfer/Art_Generation_with_Neural_Style_Transfer.ipynb)
 
+### Assignment Content MediaFire
+- [Week 1-Programming Assignment Convolutional Model-Step by Step](https://www.mediafire.com/file/pdwqxwwqvexghtq/Week_1-Programming_Assignment_Convolutional_Model-Step_by_Step.zip/file)
+- [Week 1-Programming Assignment Convolution Model Application](https://www.mediafire.com/file/nmjgpptt5jo26et/Week_1-Programming_Assignment_Convolution_Model_Application.zip/file)
+- [Week 2-Programming Assignment Transfer Learning with MobileNet](https://www.mediafire.com/file/9xlj315m6yry7ws/Week_2-Programming_Assignment_Transfer_Learning_with_MobileNet.zip/file)
+- [Week 2-Programming Assignment Residual Networks](https://www.mediafire.com/file/b0fgbf224lxk35q/Week_2-Programming_Assignment_Residual_Networks.zip/file)
+- [Week 3-Programming Assignment Car detection with YOLO]()
+- [Week 3-Programming Assignment Image Segmentation with U-Net]()
+- [Week 4-Programming Assignment Face Recognition]()
+- [Week 4-Programming Assignment Art Generation with Neural Style Transfer]()
+
 ### Quizes
 - [Week 1-The Basics of ConvNets](https://github.com/ahsan-83/Deep-Learning-Specialization-Coursera/blob/main/Convolutional%20Neural%20Networks/Quizes/Week%201-The%20Basics%20of%20ConvNets.pdf)
 - [Week 2-Deep Convolutional Models](https://github.com/ahsan-83/Deep-Learning-Specialization-Coursera/blob/main/Convolutional%20Neural%20Networks/Quizes/Week%202-Deep%20Convolutional%20Models.pdf)
