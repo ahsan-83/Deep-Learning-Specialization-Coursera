@@ -6,7 +6,9 @@
 
 Instructor: [Andrew Ng](http://www.andrewng.org/)
 
-## Course 1: [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning)
+## Course 1: [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning) 
+
+### [Content](https://github.com/ahsan-83/Deep-Learning-Specialization-Coursera/tree/main/Neural%20Networks%20and%20Deep%20Learning)
 
 ### Coursework
 - Deep Learning
@@ -39,6 +41,8 @@ Instructor: [Andrew Ng](http://www.andrewng.org/)
 
 ## Course 2: [Improving Deep Neural Networks](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)
 
+### [Content](https://github.com/ahsan-83/Deep-Learning-Specialization-Coursera/tree/main/Improving%20Deep%20Neural%20Network)
+
 ### Coursework
 - Tensorflow
 - Deep Learning
@@ -67,6 +71,8 @@ Instructor: [Andrew Ng](http://www.andrewng.org/)
 
 ## Course 3: [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning)
 
+### [Content](https://github.com/ahsan-83/Deep-Learning-Specialization-Coursera/tree/main/Structuring%20Deep%20Learning%20Project)
+
 ### Coursework
 - Deep Learning
 - Inductive Transfer
@@ -86,6 +92,8 @@ Instructor: [Andrew Ng](http://www.andrewng.org/)
 ### [Certificate](https://www.coursera.org/account/accomplishments/verify/BZE6J6RT4NNJ)
 
 ## Course 4: [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
+
+### [Content](https://github.com/ahsan-83/Deep-Learning-Specialization-Coursera/tree/main/Convolutional%20Neural%20Networks)
 
 ### Coursework
 - Deep Learning
