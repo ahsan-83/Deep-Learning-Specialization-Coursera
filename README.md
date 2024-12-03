@@ -1,3 +1,4 @@
+
 # Deep Learning Specialization Coursera
 
 ![](DeepLearning.PNG)
@@ -16,6 +17,8 @@ Instructor: [Andrew Ng](http://www.andrewng.org/)
 - Backpropagation
 - Python Programming
 - Neural Network Architecture
+
+### [Course Details](https://github.com/ahsan-83/Deep-Learning-Specialization-Coursera/blob/main/Neural%20Networks%20and%20Deep%20Learning/Certificate/Course%20Info.pdf)
 
 ### Lectures
 - [Week 1-Introduction to Deep Learning](https://github.com/ahsan-83/Deep-Learning-Specialization-Coursera/blob/main/Neural%20Networks%20and%20Deep%20Learning/Lectures/C1_W1.pdf)
