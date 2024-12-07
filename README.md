@@ -21,7 +21,7 @@ Instructor: [Andrew Ng](http://www.andrewng.org/)
 ### [Course Details](https://github.com/ahsan-83/Deep-Learning-Specialization-Coursera/blob/main/Neural%20Networks%20and%20Deep%20Learning/Certificate/Course%20Info.pdf)
 
 ### Lectures
-- [Week 1-Introduction to Deep Learning](https://github.com/ahsan-83/Deep-Learning-Specialization-Coursera/blob/main/Neural%20Networks%20and%20Deep%20Learning/Lectures/C1_W1.pdf)
+- [Week 1-Introduction to Deep Learning](https://github.dev/ahsan-83/Deep-Learning-Specialization-Coursera/blob/main/Neural%20Networks%20and%20Deep%20Learning/Lectures/C1_W1.pdf)
 - [Week 2-Neural Networks Basics](https://github.com/ahsan-83/Deep-Learning-Specialization-Coursera/blob/main/Neural%20Networks%20and%20Deep%20Learning/Lectures/C1_W2.pdf)
 - [Week 3-Shallow Neural Networks](https://github.com/ahsan-83/Deep-Learning-Specialization-Coursera/blob/main/Neural%20Networks%20and%20Deep%20Learning/Lectures/C1_W3.pdf)
 - [Week 4-Deep Neural Networks](https://github.com/ahsan-83/Deep-Learning-Specialization-Coursera/blob/main/Neural%20Networks%20and%20Deep%20Learning/Lectures/C1_W4.pdf)
